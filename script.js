@@ -1,4 +1,4 @@
-const GOOGLE_SCRIPT_URL = "PASTE_YOUR_GOOGLE_APPS_SCRIPT_URL_HERE";   // ← CHANGE THIS
+const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzI7a9il68Nb0bY4WwBAMdaVvTXA-Zc8-Eklf5tZBr1LpkeIXaIvrK_AjfDdlcoAI4a/exec";   // ← CHANGE THIS
 
 function loadData() {
     fetch(GOOGLE_SCRIPT_URL)
